@@ -2,3 +2,5 @@ operator:
   enabled: false
 alertmanager:
   enabled: false
+blackboxExporter:
+  enabled: false
