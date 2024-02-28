@@ -1,0 +1,4 @@
+operator:
+  enabled: false
+alertmanager:
+  enabled: false
